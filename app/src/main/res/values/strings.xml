@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipStudy</string>
+    <string name="app_main">Study Tips</string>
+    <string name="tip_study_one">Simple Tips for Time Management</string>
+    <string name="tip_study_two">Maximizing To-Do List</string>
+    <string name="tip_study_three">How to Learn Topics Easier</string>
+    <string name="tip_study_four">Simple Ways to Prepare for Exams</string>
+
+    <string name="time_management">* Effectively make a to-do list \n by arranging by category and \n priority \n\n * Know your productivity style \n\n * Save more time by avoiding \n switching tasks, \n\n * Create rituals to set the mood, \n getting rid of distractions, and start \n step by step</string>
+
+    <string name="maximizing">* Decide the appropriate planning \n method \n\n * Choose the right medium \n\n * Make priority lists \n\n * Eliminate unnecessary tasks \n\n * Create a step by step process \n\n * Make the experience enticing</string>
+
+    <string name="learn_topics">What is Feynman Technique? \n ~ It is simply the activity of explaining \n complex concepts into simpler terms \n as if you were teaching it to \n someone else or to a child \n \n * You can easily identify what you \n know and what you dont know \n\n * It helps fill in knowledge gaps \n you have \n\n * It makes it harder for you to \n trick yourself into thinking you \n know the topic</string>
+
+    <string name="prepare_exams">* Create an exam review plan by \n listing down the topics needed \n and how much you need to review, \n layout the timeframe to review before \n exam, and lastly, arrange your \n topics according to priority, difficulty \n, review length, and mastery level \n\n * Create an exam review plan \n such as apply spaced repetition, \n appropriately place the topics, add \n date, time, and what topics to study, \n and review and actively recall \n strategies \n\n * Other boosters to help prepare \n before exams are study groups, \n accountability, frequent break, and \n consume brain food </string>
+    </resources>
